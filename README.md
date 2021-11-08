@@ -1,6 +1,6 @@
 # Awesome URDF [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of Unified Robot Description Format (URDF) libraries, tools and resources. 
+> A curated list of Unified Robot Description Format (URDF) libraries, tools and resources.
 
 Unified Robot Description Format (URDF) is an XML format for representing some aspects of a robot model, that was initially proposed as part of the [Robot Operating System (ROS)](https://www.ros.org/), but it is now used in several robotics-related tools and software.
 
@@ -15,7 +15,7 @@ See the [official ROS documentation page on URDF](http://wiki.ros.org/urdf) for 
     - [MATLAB/Simulink](#matlabsimulink)
     - [Rust](#rust)
     - [Julia](#julia)
-  - [Tools](#tools) 
+  - [Tools](#tools)
 - [Community](#community)
 
 
@@ -25,7 +25,7 @@ There is no versioned specification of the URDF format. The main reference for t
 
 ### Libraries
 
-Libraries to import, export and manipulate URDF files. 
+Libraries to import, export and manipulate URDF files.
 
 #### C++
 - [urdfdom](https://github.com/ros/urdfdom) - Reference C++ URDF parser implementation mantained by OpenRobotics. [BSD]
@@ -34,6 +34,7 @@ Libraries to import, export and manipulate URDF files.
 
 #### Python
 - [urdf_parser_py](https://github.com/ros/urdf_parser_py) - Reference Python URDF parser mantained by OpenRobotics. [BSD]
+- [odio_urdf](https://github.com/hauptmech/odio_urdf) - Library for building URDF files using Python. [MIT]
 
 #### MATLAB/Simulink
 - [Simscape Multibody URDF Import](https://mathworks.com/help/physmod/sm/ug/urdf-import.html) - Simscape Multibody is the Multibody simulation environment of MATLAB, that supports importing URDFs. [Commercial]
@@ -52,8 +53,8 @@ Libraries to import, export and manipulate URDF files.
 
 ## Community
 
-- [Robotics StackExchange](https://robotics.stackexchange.com/?tags=urdf) - Questions related to URDF in Robotics StackExchange. 
-- [ROS Answers](https://answers.ros.org/questions/scope%3Aall/sort%3Aactivity-desc/tags%3Aurdf/) - Questions related to URDF in Robotics StackExchange. 
+- [Robotics StackExchange](https://robotics.stackexchange.com/?tags=urdf) - Questions related to URDF in Robotics StackExchange.
+- [ROS Answers](https://answers.ros.org/questions/scope%3Aall/sort%3Aactivity-desc/tags%3Aurdf/) - Questions related to URDF in Robotics StackExchange.
 
 
 ## Contribute
