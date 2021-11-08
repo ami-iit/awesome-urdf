@@ -34,7 +34,7 @@ Libraries to import, export and manipulate URDF files.
 
 #### Python
 - [urdf_parser_py](https://github.com/ros/urdf_parser_py) - Reference Python URDF parser mantained by OpenRobotics. [BSD]
-- [odio_urdf](https://github.com/hauptmech/odio_urdf) - Library for building URDF files using Python. [No License]
+- [odio_urdf](https://github.com/hauptmech/odio_urdf) - Library for building URDF files using Python. [MIT]
 
 #### MATLAB/Simulink
 - [Simscape Multibody URDF Import](https://mathworks.com/help/physmod/sm/ug/urdf-import.html) - Simscape Multibody is the Multibody simulation environment of MATLAB, that supports importing URDFs. [Commercial]
