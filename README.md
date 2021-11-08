@@ -37,7 +37,7 @@ Libraries to import, export and manipulate URDF files.
 - [odio_urdf](https://github.com/hauptmech/odio_urdf) - Library for building URDF files using Python. [MIT]
 
 #### MATLAB/Simulink
-- [Simscape Multibody URDF Import](https://mathworks.com/help/physmod/sm/ug/urdf-import.html) - Simscape Multibody is the Multibody simulation environment of MATLAB, that supports importing URDFs. [Commercial]
+- [Simscape Multibody URDF Import](https://mathworks.com/help/physmod/sm/ug/urdf-import.html) - Simscape Multibody is the Multibody simulation environment of MATLAB, that supports importing URDFs. MATLAB docs contain also a useful [URDF primer](https://mathworks.com/help/physmod/sm/ug/urdf-model-import.html) documentation. [Commercial]
 
 #### Rust
 - [urdf-rs](https://github.com/openrr/urdf-rs) - URDF parser using [serde-xml-rs](https://github.com/RReverser/serde-xml-rs) for Rust. [APACHE2]
@@ -53,9 +53,9 @@ Libraries to import, export and manipulate URDF files.
 
 ## Community
 
-- [Robotics StackExchange](https://robotics.stackexchange.com/?tags=urdf) - Questions related to URDF in Robotics StackExchange.
-- [ROS Answers](https://answers.ros.org/questions/scope%3Aall/sort%3Aactivity-desc/tags%3Aurdf/) - Questions related to URDF in Robotics StackExchange.
 
+- [Robotics StackExchange](https://robotics.stackexchange.com/?tags=urdf) - Questions related to URDF in Robotics StackExchange. 
+- [ROS Answers](https://answers.ros.org/questions/scope%3Aall/sort%3Aactivity-desc/tags%3Aurdf/) - Questions related to URDF in ROS.
 
 ## Contribute
 
