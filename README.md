@@ -53,7 +53,7 @@ Libraries to import, export and manipulate URDF files.
 ## Community
 
 - [Robotics StackExchange](https://robotics.stackexchange.com/?tags=urdf) - Questions related to URDF in Robotics StackExchange. 
-- [ROS Answers](https://answers.ros.org/questions/scope%3Aall/sort%3Aactivity-desc/tags%3Aurdf/) - Questions related to URDF in Robotics StackExchange. 
+- [ROS Answers](https://answers.ros.org/questions/scope%3Aall/sort%3Aactivity-desc/tags%3Aurdf/) - Questions related to URDF in ROS. 
 
 
 ## Contribute
