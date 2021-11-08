@@ -36,7 +36,7 @@ Libraries to import, export and manipulate URDF files.
 - [urdf_parser_py](https://github.com/ros/urdf_parser_py) - Reference Python URDF parser mantained by OpenRobotics. [BSD]
 
 #### MATLAB/Simulink
-- [Simscape Multibody URDF Import](https://mathworks.com/help/physmod/sm/ug/urdf-import.html) - Simscape Multibody is the Multibody simulation environment of MATLAB, that supports importing URDFs. [Commercial]
+- [Simscape Multibody URDF Import](https://mathworks.com/help/physmod/sm/ug/urdf-import.html) - Simscape Multibody is the Multibody simulation environment of MATLAB, that supports importing URDFs. MATLAB docs contain also a useful [URDF primer](https://it.mathworks.com/help/physmod/sm/ug/urdf-model-import.html) documentation. [Commercial]
 
 #### Rust
 - [urdf-rs](https://github.com/openrr/urdf-rs) - URDF parser using [serde-xml-rs](https://github.com/RReverser/serde-xml-rs) for Rust. [APACHE2]
