@@ -8,19 +8,15 @@ See the [official ROS documentation page on URDF](http://wiki.ros.org/urdf) for 
 
 ## Contents
 
-- [Awesome URDF ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-urdf-)
-  - [Contents](#contents)
-  - [URDF](#urdf)
-    - [Libraries](#libraries)
-      - [C++](#c)
-      - [Python](#python)
-      - [MATLAB/Simulink](#matlabsimulink)
-      - [Rust](#rust)
-      - [Julia](#julia)
-    - [Tools](#tools)
-  - [Community](#community)
-  - [Contribute](#contribute)
-  - [License](#license)
+- [URDF](#urdf)
+  - [Libraries](#libraries)
+    - [C++](#c)
+    - [Python](#python)
+    - [MATLAB/Simulink](#matlabsimulink)
+    - [Rust](#rust)
+    - [Julia](#julia)
+  - [Tools](#tools)
+- [Community](#community)
 
 
 ## URDF
