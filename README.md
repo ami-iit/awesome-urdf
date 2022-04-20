@@ -51,6 +51,7 @@ Libraries to import, export and manipulate URDF files.
 - [blender-robotics-utils](https://github.com/robotology/blender-robotics-utils) - Set of utilities for exporting/controlling your robot in [Blender](https://www.blender.org/). It includes a URDF to Blender model converter. [BSD]
 - [Unity-Technologies/URDF-Importer](https://github.com/Unity-Technologies/URDF-Importer) - URDF Importer allows you to import a robot defined in URDF format in a [Unity scene](https://unity.com). [APACHE]
 - [yourdfpy](https://github.com/clemense/yourdfpy) - Library and command-line tool to load, visualize, manipulate, validate and save URDF files.
+- [urdf-viz](https://github.com/openrr/urdf-viz) - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux. [APACHE2]
 
 ## Community
 
