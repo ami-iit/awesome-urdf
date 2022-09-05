@@ -15,6 +15,7 @@ See the [official ROS documentation page on URDF](http://wiki.ros.org/urdf) for 
     - [MATLAB/Simulink](#matlabsimulink)
     - [Rust](#rust)
     - [Julia](#julia)
+  - [Resources](#resources)
   - [Tools](#tools)
 - [Community](#community)
 
@@ -44,6 +45,10 @@ Libraries to import, export and manipulate URDF files.
 
 #### Julia
 - [MeshCatMechanisms.jl](https://github.com/JuliaRobotics/MeshCatMechanisms.jl) - 3D Visualization of mechanisms and URDFs using [MeshCat.jl](https://github.com/rdeits/MeshCat.jl) and [RigidBodyDynamics.jl](https://github.com/JuliaRobotics/RigidBodyDynamics.jl) . [MIT]
+
+### Resources
+
+- [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions#readme) - A curated list of awesome robot descriptions, most in URDF or Xacro formats.
 
 ### Tools
 
