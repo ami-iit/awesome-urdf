@@ -57,12 +57,14 @@ Libraries to import, export and manipulate URDF files.
 - [Unity-Technologies/URDF-Importer](https://github.com/Unity-Technologies/URDF-Importer) - URDF Importer allows you to import a robot defined in URDF format in a [Unity scene](https://unity.com). [APACHE]
 - [yourdfpy](https://github.com/clemense/yourdfpy) - Library and command-line tool to load, visualize, manipulate, validate and save URDF files.
 - [urdf-viz](https://github.com/openrr/urdf-viz) - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux. [APACHE2]
+- [Foxglove Studio](https://foxglove.dev/urdf) - Visualization app for web or desktop, supports URDFs as well as arbitrary bag or [MCAP](https://mcap.dev) data. [MPL-2.0]
 
 ## Community
 
 
 - [Robotics StackExchange](https://robotics.stackexchange.com/?tags=urdf) - Questions related to URDF in Robotics StackExchange. 
 - [ROS Answers](https://answers.ros.org/questions/scope%3Aall/sort%3Aactivity-desc/tags%3Aurdf/) - Questions related to URDF in ROS.
+- [Foxglove Slack community](https://foxglove.dev/slack) - Questions and discussion related to robitics data visualization
 
 ## Contribute
 
