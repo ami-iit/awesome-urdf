@@ -69,3 +69,9 @@ The Biomimetic Robotics Lab at MIT define its own extensions that they call `URD
 
 Documentation: `URDF+` paper at Humanoids 2024, not sure if it is public.
 Code: https://github.com/mit-biomimetics/urdfdom_headers, https://github.com/mit-biomimetics/urdfdom
+
+### `urdf-ext-tesseract`
+
+The `tesseract` motion planning URDF loader supports various generic extensions for URDF.
+
+Documentation: https://ros-industrial-tesseract.readthedocs.io/en/stable/_source/tesseract_urdf_doc.html .
