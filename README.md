@@ -63,7 +63,7 @@ Libraries to import, export and manipulate URDF files.
 
 ### Extensions
 
-Several libraries and groups have extended the URDF format behind the official spec, a brief list is provided in the [`urdf-extensions.md`](urdf-extensions.md) file.
+Several libraries and groups have extended the URDF format beyond the official specs, a brief list is provided in the [`urdf-extensions.md`](urdf-extensions.md) file.
 
 
 ## Community

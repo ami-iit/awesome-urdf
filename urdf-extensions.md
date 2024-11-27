@@ -2,7 +2,8 @@
 
 Unfortunately the official URDF specification does not provide any facility to clearly define "extensions" to the URDF, i.e. XML code that is defined inline in URDF XML, but that is not part of the official tags defined in the spec, as for example is done in SDF: http://sdformat.org/tutorials?tut=custom_elements_attributes_proposal&ver=1.7&cat=pose_semantics_docs& . 
 
-However, there are a bunch of URDF parsers that define their own extensions to add some functionalities. What is happening when a URDF parser does not support a given extension, as nothing is specified in the extension, is the extension is simply ignored. 
+However, there are a bunch of URDF parsers that define their own extensions to add some functionalities. What is happening when a URDF parser does not support a given extension, as nothing is specified in the extension, is that the extension is simply ignored. 
+
 
 Extensions:
 
