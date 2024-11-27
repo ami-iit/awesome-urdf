@@ -16,6 +16,7 @@ See the [official ROS documentation page on URDF](http://wiki.ros.org/urdf) for 
     - [Rust](#rust)
     - [Julia](#julia)
   - [Resources](#resources)
+  - [Extensions](#extensions)
   - [Tools](#tools)
 - [Community](#community)
 
@@ -60,12 +61,18 @@ Libraries to import, export and manipulate URDF files.
 - [Foxglove Studio](https://foxglove.dev/urdf) - Visualization app for web or desktop, supports URDFs as well as arbitrary bag or [MCAP](https://mcap.dev) data. [MPL-2.0]
 - [URDFormer](https://github.com/WEIRDLabUW/urdformer) - Given an image, URDFormer predicts its corresponding interactive 'digital twin' in the URDF format. 
 
+### Extensions
+
+Several libraries and groups have extended the URDF format beyond the official specs, a brief list is provided in the [`urdf-extensions.md`](urdf-extensions.md) file.
+
+
 ## Community
 
 
 - [Robotics StackExchange](https://robotics.stackexchange.com/?tags=urdf) - Questions related to URDF in Robotics StackExchange. 
 - [ROS Answers](https://answers.ros.org/questions/scope%3Aall/sort%3Aactivity-desc/tags%3Aurdf/) - Questions related to URDF in ROS.
 - [Foxglove Slack community](https://foxglove.dev/slack) - Questions and discussion related to robitics data visualization
+
 
 ## Contribute
 
