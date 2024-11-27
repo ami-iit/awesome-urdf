@@ -69,19 +69,3 @@ The Biomimetic Robotics Lab at MIT define its own extensions that they call `URD
 
 Documentation: `URDF+` paper at Humanoids 2024, not sure if it is public.
 Code: https://github.com/mit-biomimetics/urdfdom_headers, https://github.com/mit-biomimetics/urdfdom
-
-
-##### Closed loop support
-
-The main point of the MIT Biomimetic lab extension is indeed the definition of closed loop joints, that can be defined as:
-
-~~~xml
- <gazebo>
-    <joint name="joint_E" type="fixed">
-      <pose>-0.1 -0.01 0 0 0 0</pose>
-      <parent>link_BE</parent>
-      <child>link_EC</child>
-    </joint>
-  </gazebo>
-</robot>
-~~~
