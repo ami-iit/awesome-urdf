@@ -68,7 +68,7 @@ Code: https://github.com/google-deepmind/mujoco/blob/3.2.5/src/xml/xml_urdf.cc
 
 The Biomimetic Robotics Lab at MIT define its own extensions that they call `URDF+`, that permits to define closed loops in URDF. From the code point of view, they developed a fork on the official libraries `urdfdom_headers` and `urdfdom`.
 
-Documentation: `URDF+` paper at Humanoids 2024, not sure if it is public.
+Documentation: `URDF+` paper at Humanoids 2024, available at https://arxiv.org/abs/2411.19753 .
 Code: https://github.com/mit-biomimetics/urdfdom_headers, https://github.com/mit-biomimetics/urdfdom
 
 ### `urdf-ext-tesseract`
