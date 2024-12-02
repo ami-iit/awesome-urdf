@@ -17,7 +17,7 @@ The `<gazebo>` tags: This is an element that is originated as way to embed Gazeb
 Documentation: https://classic.gazebosim.org/tutorials?tut=ros_urdf .
 Code: https://github.com/gazebosim/sdformat/blob/4ebe022c231b6b46ee56ad46ecbabc8f3e9aa534/src/parser.cc#L1353 .
 
-##### Closed loop support
+##### `urdf-ext-gazebo` Closed loop support
 
 Among the different features supported, this extensions also permits to specify closed loops, see for example https://classic.gazebosim.org/tutorials?tut=kinematic_loop&cat=#Split4-barlinkageinURDFwithanSDFormatfixedjoint : 
 
