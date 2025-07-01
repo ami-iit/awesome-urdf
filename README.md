@@ -60,6 +60,7 @@ Libraries to import, export and manipulate URDF files.
 - [urdf-viz](https://github.com/openrr/urdf-viz) - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux. [APACHE2]
 - [Foxglove Studio](https://foxglove.dev/urdf) - Visualization app for web or desktop, supports URDFs as well as arbitrary bag or [MCAP](https://mcap.dev) data. [MPL-2.0]
 - [URDFormer](https://github.com/WEIRDLabUW/urdformer) - Given an image, URDFormer predicts its corresponding interactive 'digital twin' in the URDF format. 
+- [urdf-loaders](https://gkjohnson.github.io/urdf-loaders/javascript/example/bundle/) - URDF visualizer running in modern Web browsers with support for drag-and-dropping a full description directory. [APACHE2]
 
 ### Extensions
 
