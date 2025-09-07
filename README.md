@@ -62,6 +62,7 @@ Libraries to import, export and manipulate URDF files.
 - [URDFormer](https://github.com/WEIRDLabUW/urdformer) - Given an image, URDFormer predicts its corresponding interactive 'digital twin' in the URDF format. 
 - [urdf-loaders](https://gkjohnson.github.io/urdf-loaders/javascript/example/bundle/) - URDF visualizer running in modern Web browsers with support for drag-and-dropping a full description directory. [APACHE2]
 - [jupytercad\_urdf](https://github.com/jupytercad/JupyterCAD-urdf/) - A JupyterLab extension allowing export of CAD designs to URDF.
+- [xacrodoc](https://github.com/adamheins/xacrodoc) - A wrapper around xacro providing friendly interfaces to compile xacro files to plain URDF or MJCF from Python or the command line. No ROS installation is required.
 
 ### Extensions
 
