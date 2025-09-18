@@ -64,7 +64,7 @@ Libraries to import, export and manipulate URDF files.
 - [jupytercad\_urdf](https://github.com/jupytercad/JupyterCAD-urdf/) - A JupyterLab extension allowing export of CAD designs to URDF.
 - [xacrodoc](https://github.com/adamheins/xacrodoc) - A wrapper around xacro providing friendly interfaces to compile xacro files to plain URDF or MJCF from Python or the command line. No ROS installation is required.
 - [bubblify](https://github.com/bheijden/bubblify) - Bubblify is an interactive tool for creating spherical approximations of robot geometries directly from Universal Robot Description Format (URDF) specifications
-
+- [URDFly](https://github.com/Democratizing-Dexterous/URDFly) - URDFly is a Python-based toolkit for working with URDF files, providing tools for parsing, visualizing, and analyzing robotic systems defined in URDF format, with a focus on axes visulazation, urdf editing, MDH parameter conversion, kinematics calculation, and dynamics regressor codegen.
 ### Extensions
 
 Several libraries and groups have extended the URDF format beyond the official specs, a brief list is provided in the [`urdf-extensions.md`](urdf-extensions.md) file.
