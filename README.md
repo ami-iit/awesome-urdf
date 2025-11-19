@@ -48,7 +48,7 @@ Libraries to import, export and manipulate URDF files.
 #### Julia
 - [MeshCatMechanisms.jl](https://github.com/JuliaRobotics/MeshCatMechanisms.jl) - 3D Visualization of mechanisms and URDFs using [MeshCat.jl](https://github.com/rdeits/MeshCat.jl) and [RigidBodyDynamics.jl](https://github.com/JuliaRobotics/RigidBodyDynamics.jl) . [MIT]
 
-### Go (Golang)
+#### Go (Golang)
 - [urdf-go](https://github.com/WrenchRobotics/urdf-go) - URDF parser using the XML decorators of Golang for efficient reading.
 
 ### Resources
